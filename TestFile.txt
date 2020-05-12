@@ -1,0 +1,1 @@
+Categorizing the services would help you understand Azure better. These categories are termed as ‘Components’ in this tutorial. The Individual components are explained with detailed pictures in subsequent chapters.
